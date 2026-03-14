@@ -50,7 +50,7 @@ Additional lighting includes:
 - VS Code
 
 ## Running the Game
-Download the provided `.exe` file from the repository and run it to launch the game.
+Download the provided Windows output folder or Mac output folder and run the `.exe` file to launch the game.
 
 ## Assets: 
 - Maze Modular Puzzle Kit by Poly Etereo - https://assetstore.unity.com/packages/3d/environments/maze-modular-puzzle-kit-302221
