@@ -362,8 +362,8 @@ MonoBehaviour:
   speed: 10
   rotationSpeed: 90
   colors:
-  - {r: 1, g: 0.1745283, b: 0.35499594, a: 1}
-  - {r: 0.5305619, g: 0.3915094, b: 1, a: 1}
+  - {r: 0.06848522, g: 0.0983466, b: 0.5377358, a: 1}
+  - {r: 0.46226418, g: 0.09812213, b: 0.12718505, a: 1}
   spawnedPrefab: {fileID: 8220265548356838825, guid: 8c3cec07901bb4749854c17d6356a1b1, type: 3}
   cannon: {fileID: 1308251238900707035}
   bullet: {fileID: 0}
